@@ -27,7 +27,7 @@ import {
   Copy,
   Download,
   Globe,
-  Instagram,
+  FaInstagram,
   Languages,
   Loader2,
   Megaphone,
@@ -39,7 +39,7 @@ import {
   Sparkles,
   Target,
   X,
-} from "lucide-react";
+} from "react-icons/fa";
 
 /* ============================================================
  * Configuration
